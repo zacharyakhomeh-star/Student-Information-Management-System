@@ -1,0 +1,51 @@
+C:\try proj\StudentInformationSystem\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.exe
+C:\try proj\StudentInformationSystem\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.deps.json
+C:\try proj\StudentInformationSystem\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.runtimeconfig.json
+C:\try proj\StudentInformationSystem\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\try proj\StudentInformationSystem\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.GenerateResource.cache
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfoInputs.cache
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfo.cs
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\refint\StudentInformationSystem.dll
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.genruntimeconfig.cache
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\ref\StudentInformationSystem.dll
+C:\try proj\StudentInformationSystem\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.MainForm.resources
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.exe
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.deps.json
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.runtimeconfig.json
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.MainForm.resources
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfoInputs.cache
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfo.cs
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\refint\StudentInformationSystem.dll
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.genruntimeconfig.cache
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\ref\StudentInformationSystem.dll
+C:\Users\paing\Downloads\StudentInformationSystem - Don't Upload Here-20260914T041824Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentI.8538D5CC.Up2Date
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.exe
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.deps.json
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.runtimeconfig.json
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.MainForm.resources
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfoInputs.cache
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.AssemblyInfo.cs
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.dll
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\refint\StudentInformationSystem.dll
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.pdb
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentInformationSystem.genruntimeconfig.cache
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\ref\StudentInformationSystem.dll
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\bin\Debug\net10.0-windows\StudentInformationSystem.runtimeconfig.dev.json
+C:\Users\zacha\Downloads\StudentInformationSystem - Don_t Upload Here-20261010T110954Z-1-001\StudentInformationSystem - Don_t Upload Here\StudentInformationSystem\obj\Debug\net10.0-windows\StudentI.8538D5CC.Up2Date
